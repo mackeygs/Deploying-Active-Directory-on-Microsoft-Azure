@@ -14,7 +14,6 @@ The goal was to show how an organization could move centralized identity managem
 ## Table of Contents
 
 - [Highlights](#highlights)
-- [My Role](#my-role)
 - [Why Active Directory in the Cloud](#why-active-directory-in-the-cloud)
 - [Architecture](#architecture)
 - [Building the Environment](#building-the-environment)
